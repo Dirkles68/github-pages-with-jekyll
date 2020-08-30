@@ -1,7 +1,7 @@
 ---
 title: "First Day of School"
 date: 2020-08-29
-
+---
 
 Hello, and welcome to day 1 of my learning blog. Here I will begin my journey of learning something new. I plan on expaning my skills into some programming languages and sharpening my now dull GIS skills. I would like to become proficient in Python, Sand SQL to start off with. Along the way, I will be doing some GIS projects to increase my skillset and refresh some things that I have forgotten. 
 
